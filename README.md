@@ -1,5 +1,5 @@
 # Speaking Engagements
-###History of public speaking engagements, such as conferences, webinars, podcasts, etc. Includes recordings where available.
+## History of public speaking engagements, such as conferences, webinars, podcasts, etc. Includes recordings where available.
 
 - 360 Advanced Webinar Series - February 2024  
 [Convergence of Cybersecurity and GRC](https://compliance.360advanced.com/hubfs/Webinar%20Recordings/Convergence%20of%20Cybersecurity%20and%20GRC.mp4)
