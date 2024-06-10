@@ -1,10 +1,10 @@
 # Speaking Engagements
 ## History of public speaking engagements, such as conferences, webinars, podcasts, etc. Includes recordings where available.
 
-- BSides SATX - June 2024
+- BSides SATX - June 2024  
 VRM 201: Effectively Assessing Vendor AI Risk (Recording TBD)
 
-- BSides Seattle - April 2024
+- BSides Seattle - April 2024  
 Small and Mighty: Making Security Happen in a Small Security Team (Recording TBD)
 
 - 360 Advanced Webinar Series - February 2024  
