@@ -2,10 +2,10 @@
 ## History of public speaking engagements, such as conferences, webinars, podcasts, etc. Includes recordings where available.
 
 - BSides SATX - June 2024  
-VRM 201: Effectively Assessing Vendor AI Risk (Recording TBD)
+[VRM 201: Effectively Assessing Vendor AI Risk](https://www.youtube.com/watch?v=pz89GAKS17A)
 
 - BSides Seattle - April 2024  
-Small and Mighty: Making Security Happen in a Small Security Team (Recording TBD)
+[Small and Mighty: Making Security Happen in a Small Security Team](https://www.youtube.com/watch?v=2STAO45R5xk&t=1165s)
 
 - 360 Advanced Webinar Series - February 2024  
 [Convergence of Cybersecurity and GRC](https://compliance.360advanced.com/hubfs/Webinar%20Recordings/Convergence%20of%20Cybersecurity%20and%20GRC.mp4)
