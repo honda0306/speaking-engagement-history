@@ -1,11 +1,17 @@
 # Speaking Engagements
 ## History of public speaking engagements, such as conferences, webinars, podcasts, etc. Includes recordings where available.
 
+- SimplyCyberCon - November 2024  
+Having Optimism in the Age of AI
+
+- SecureWorld Webinar - October 2024
+Banish the Bogeyman: Managing and Assessing AI Risk
+
 - SAINTCON - October 2024  
 Walking the Tightrope: Balanced AI Risk Management
 
 - BSides St.Pete - September 2024  
-TBD
+Same Game, Different Name: Effectively Managing Vendor AI Risk (No recording)
 
 - BSides SATX - June 2024  
 [VRM 201: Effectively Assessing Vendor AI Risk](https://www.youtube.com/watch?v=pz89GAKS17A)
