@@ -5,7 +5,7 @@
 Having Optimism in the Age of AI
 
 - **SecureWorld Webinar** - *October 2024*  
-Banish the Bogeyman: Managing and Assessing AI Risk
+[Banish the Bogeyman: Managing and Assessing AI Risk](https://www.youtube.com/watch?v=jFDreTVeSO8)
 
 - **SAINTCON** - *October 2024*  
 Walking the Tightrope: Balanced AI Risk Management
