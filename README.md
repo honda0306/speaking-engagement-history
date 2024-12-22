@@ -1,7 +1,7 @@
 # Speaking Engagements
 ## History of public speaking engagements, such as conferences, webinars, podcasts, etc. Includes recordings where available.
 
-- **Keyboard Samurai Podcast** - *December 2024*
+- **Keyboard Samurai Podcast** - *December 2024*  
 [Product Management & Innovation, striking a balance](https://www.youtube.com/watch?v=Z5GaUHBFvFM)
 
 - **SimplyCyberCon** - *November 2024*  
