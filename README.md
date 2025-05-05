@@ -1,6 +1,15 @@
 # Speaking Engagements
 ## History of public speaking engagements, such as conferences, webinars, podcasts, etc. Includes recordings where available.
 
+- **Infosec.live Podcast** - *May 2025*  
+[Risking It All In Cybersecurity](https://www.youtube.com/watch?v=Z5GaUHBFvFM)
+
+- **Cyber Warrior Podcast - Security Happy Hour** - *May 2025*  
+[GRC, Diverse Backgrounds & The People Side of Cybersecurity](https://www.youtube.com/watch?v=XN6Y4lQtzZ0)
+
+- **BSides Seattle** - *April 2025*  
+Join the Team, We've Got Cookies - Landing A GRC Role (Recording Pending)
+
 - **Keyboard Samurai Podcast** - *December 2024*  
 [Product Management & Innovation, striking a balance](https://www.youtube.com/watch?v=Z5GaUHBFvFM)
 
