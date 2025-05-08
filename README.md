@@ -2,7 +2,7 @@
 ## History of public speaking engagements, such as conferences, webinars, podcasts, etc. Includes recordings where available.
 
 - **Infosec.live Podcast** - *May 2025*  
-[Risking It All In Cybersecurity](https://www.youtube.com/watch?v=Z5GaUHBFvFM)
+[Risking It All In Cybersecurity](https://www.youtube.com/watch?v=Z5GaUHBFvFM)[ | LinkedIn Event](https://www.linkedin.com/events/riskingitallincybersecurity-chr7322619320302280704/about/)
 
 - **Cyber Warrior Podcast - Security Happy Hour** - *May 2025*  
 [GRC, Diverse Backgrounds & The People Side of Cybersecurity](https://www.youtube.com/watch?v=XN6Y4lQtzZ0)
