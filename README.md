@@ -1,6 +1,9 @@
 # Speaking Engagements
 ## History of public speaking engagements, such as conferences, webinars, podcasts, etc. Includes recordings where available.
 
+- **Cybersecurity Summit Salt Lake City** - *June 2025*  
+Panel Discussion: Incident Response (Recording Pending)
+
 - **Infosec.live Podcast** - *May 2025*  
 [Risking It All In Cybersecurity](https://www.youtube.com/watch?v=Z5GaUHBFvFM)[ | LinkedIn Event](https://www.linkedin.com/events/riskingitallincybersecurity-chr7322619320302280704/about/)
 
@@ -35,7 +38,7 @@ Same Game, Different Name: Effectively Managing Vendor AI Risk (No recording)
 [Convergence of Cybersecurity and GRC](https://compliance.360advanced.com/hubfs/Webinar%20Recordings/Convergence%20of%20Cybersecurity%20and%20GRC.mp4)
 
 - **The GRC Podcast** - *January 2024*  
-[Episode 12](https://www.thegrcpodcast.com/episodes/interview-chris-honda)
+[Episode 12](https://open.spotify.com/episode/5snYLrTEQ2xjDhX2KkwcCB)
 
 - **SimplyCyberCon** - *November 2023*  
 [Making GRC Your Career Superpower](https://www.youtube.com/watch?v=gkW0hkk1hPA)
