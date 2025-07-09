@@ -1,6 +1,12 @@
 # Speaking Engagements
 ## History of public speaking engagements, such as conferences, webinars, podcasts, etc. Includes recordings where available.
 
+- **SAINTCON** - *October 2025*  
+Security != Compliance...But It Should (Recording Pending)
+
+- **ISACA Utah Chapter Meeting** - *August 2025*  
+Getting ISO 42001 Certified (Recording Pending, if available)
+
 - **Cybersecurity Summit Salt Lake City** - *June 2025*  
 Panel Discussion: Incident Response (Recording Pending)
 
