@@ -1,14 +1,23 @@
 # Speaking Engagements
 ## History of public speaking engagements, such as conferences, webinars, podcasts, etc. Includes recordings where available.
 
+- **Hacking APIs Conference Paris** - *December 2025*
+Title Pending (Recording Pending)
+
 - **SAINTCON** - *October 2025*  
 Security != Compliance...But It Should (Recording Pending)
 
+- **Compyl webinar** = *October 2025*
+Proving Tust Through the ISO Trifecta (Recording Pending)
+
+- **DoControl Podcast** - *September 2025*
+[The Breach Seat](https://www.youtube.com/watch?v=_LuWUGFR85s)
+
 - **ISACA Utah Chapter Meeting** - *August 2025*  
-Getting ISO 42001 Certified (Recording Pending, if available)
+Getting ISO 42001 Certified (No recording available)
 
 - **Cybersecurity Summit Salt Lake City** - *June 2025*  
-Panel Discussion: Incident Response (Recording Pending)
+Panel Discussion: Incident Response (No recording available, event details [here](https://cybersecuritysummit.com/summit/saltlakecity25/)
 
 - **Infosec.live Podcast** - *May 2025*  
 [Risking It All In Cybersecurity](https://www.youtube.com/watch?v=Z5GaUHBFvFM)[ | LinkedIn Event](https://www.linkedin.com/events/riskingitallincybersecurity-chr7322619320302280704/about/)
