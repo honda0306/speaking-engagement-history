@@ -17,7 +17,7 @@ Proving Tust Through the ISO Trifecta (Recording Pending)
 Getting ISO 42001 Certified (No recording available)
 
 - **Cybersecurity Summit Salt Lake City** - *June 2025*  
-Panel Discussion: Incident Response (No recording available, event details [here](https://cybersecuritysummit.com/summit/saltlakecity25/)
+Panel Discussion: Incident Response (No recording available, event details [here](https://cybersecuritysummit.com/summit/saltlakecity25/))
 
 - **Infosec.live Podcast** - *May 2025*  
 [Risking It All In Cybersecurity](https://www.youtube.com/watch?v=Z5GaUHBFvFM)[ | LinkedIn Event](https://www.linkedin.com/events/riskingitallincybersecurity-chr7322619320302280704/about/)
