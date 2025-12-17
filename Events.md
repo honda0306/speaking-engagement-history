@@ -4,7 +4,7 @@
 ## 2025 Presentations
 | Event | Date | Presentation Name | Recording Link |
 | --- | --- | --- | --- |
-| **Hacking APIs Conference Paris** | *December 2025* | Hiding in Plain Sight: Foundations of Scalable API Security | Recording Pending |
+| **Hacking APIs Conference Paris** | *December 2025* | Hiding in Plain Sight: Foundations of Scalable API Security {co-presented with Corey Ball} | No recording |
 | **SAINTCON** | *October 2025* | Security != Compliance...But It Should | Recording Pending |
 | **360 Advanced & Compyl webinar** | *October 2025* | Proving Tust Through the ISO Trifecta | [360 Advanced website](https://360advanced.com/webinar/proving-trust-through-the-iso-trifecta/) |
 | **DoControl Podcast** | *September 2025* | The Breach Seat | [Youtube](https://www.youtube.com/watch?v=_LuWUGFR85s) |
