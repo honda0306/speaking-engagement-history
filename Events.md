@@ -5,7 +5,6 @@
 | Event | Date | Presentation Name | Recording Link |
 | --- | --- | --- | --- |
 | **BSides Seattle** | *February 2026* | The First Security Hire's Survival Guide | Recording pending |
-| Event | Date | Presentation Name | Recording Link |
 
 ## 2025 Presentations
 | Event | Date | Presentation Name | Recording Link |
