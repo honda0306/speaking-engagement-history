@@ -1,9 +1,15 @@
 # Speaking Engagements
 ## History of public speaking engagements, such as conferences, webinars, podcasts, etc. Includes recordings where available.
 
-## 2025 Presentations
 | Event | Date | Presentation Name | Recording Link |
 | --- | --- | --- | --- |
+## 2026 Presentations)
+| **BSides Seattle** | *February 2026* | The First Security Hire's Survival Guide | Recording pending |
+| Event | Date | Presentation Name | Recording Link |
+
+| --- | --- | --- | --- |
+## 2025 Presentations)
+| **Hubscale Executive Search Podcast** | *December 2025* | A Cyber Year in Review with Grumpy Old Cyber Leaders | [LinkedIn Live Event](https://www.linkedin.com/events/7403835907369357312/ |
 | **Hacking APIs Conference Paris** | *December 2025* | Hiding in Plain Sight: Foundations of Scalable API Security {co-presented with Corey Ball} | No recording |
 | **SAINTCON** | *October 2025* | Security != Compliance...But It Should | Recording Pending |
 | **360 Advanced & Compyl webinar** | *October 2025* | Proving Tust Through the ISO Trifecta | [360 Advanced website](https://360advanced.com/webinar/proving-trust-through-the-iso-trifecta/) |
