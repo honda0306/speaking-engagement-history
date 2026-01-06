@@ -9,7 +9,7 @@
 ## 2025 Presentations
 | Event | Date | Presentation Name | Recording Link |
 | --- | --- | --- | --- |
-| **Hubscale Executive Search Podcast** | *December 2025* | A Cyber Year in Review with Grumpy Old Cyber Leaders | [LinkedIn Live Event](https://www.linkedin.com/events/7403835907369357312) |
+| **Hubscale Executive Search Podcast** | *December 2025* | A Cyber Year in Review with Grumpy Old Cyber Leaders | [LinkedIn](https://www.linkedin.com/events/7403835907369357312) |
 | **Hacking APIs Conference Paris** | *December 2025* | Hiding in Plain Sight: Foundations of Scalable API Security {co-presented with Corey Ball} | No recording |
 | **SAINTCON** | *October 2025* | Security != Compliance...But It Should | [Youtube](https://www.youtube.com/watch?v=FD5Y00sttfs) |
 | **360 Advanced & Compyl webinar** | *October 2025* | Proving Tust Through the ISO Trifecta | [360 Advanced website](https://360advanced.com/webinar/proving-trust-through-the-iso-trifecta/) |
