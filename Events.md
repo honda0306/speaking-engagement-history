@@ -4,6 +4,8 @@
 ## 2026 Presentations
 | Event | Date | Presentation Name | Recording Link |
 | --- | --- | --- | --- |
+| **Talent Gap Fireside Chat** | *March 2026* | TBD | Recording pending |
+| **Wolfia Podcast** | *March 2026* | Customer Trust, ISO 42001, and The Future | [LinkedIn](https://www.linkedin.com/posts/garrett-close_great-chat-with-chris-honda-about-iso42001-ugcPost-7437198809060823041-h8X1/) |
 | **BSides Seattle** | *February 2026* | The First Security Hire's Survival Guide | Recording pending |
 
 ## 2025 Presentations
