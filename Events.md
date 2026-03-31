@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | **Talent Gap Fireside Chat** | *March 2026* | Networking, Not Resumes: How People Actually Get Hired in Security | [Spotify](https://lnkd.in/eMJpaS5a) and [YouTube](https://www.youtube.com/watch?v=occDsfHVGhw) |
 | **Wolfia Podcast** | *March 2026* | Customer Trust, ISO 42001, and The Future | [LinkedIn](https://www.linkedin.com/posts/garrett-close_great-chat-with-chris-honda-about-iso42001-ugcPost-7437198809060823041-h8X1/) |
-| **BSides Seattle** | *February 2026* | The First Security Hire's Survival Guide | Recording pending |
+| **BSides Seattle** | *February 2026* | The First Security Hire's Survival Guide | [YouTube](https://www.youtube.com/watch?v=-Lo2bkwYwGg) |
 
 ## 2025 Presentations
 | Event | Date | Presentation Name | Recording Link |
