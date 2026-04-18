@@ -4,7 +4,9 @@
 ## 2026 Presentations
 | Event | Date | Presentation Name | Recording Link |
 | --- | --- | --- | --- |
+| **Hacking APIs Conference - NYC** | *May 2026* | TBD | Live Event (No recording) |
 | **ISACA Atlanta Chapter Geek Week** | *April 2026* | ISO Trifecta Hot Takes and Real Talk | Recording Pending |
+| **Compyl & 360 Advanced Fireside** | *April 2026* | GRC Heroes | Live Event (No recording) - [Event Link](https://compyl.com/event/grc-heroes-salt-lake/) |
 | **Talent Gap Fireside Chat** | *March 2026* | Networking, Not Resumes: How People Actually Get Hired in Security | [Spotify](https://lnkd.in/eMJpaS5a) and [YouTube](https://www.youtube.com/watch?v=occDsfHVGhw) |
 | **Wolfia Podcast** | *March 2026* | Customer Trust, ISO 42001, and The Future | [LinkedIn](https://www.linkedin.com/posts/garrett-close_great-chat-with-chris-honda-about-iso42001-ugcPost-7437198809060823041-h8X1/) |
 | **BSides Seattle** | *February 2026* | The First Security Hire's Survival Guide | [YouTube](https://www.youtube.com/watch?v=-Lo2bkwYwGg) |
@@ -13,7 +15,7 @@
 | Event | Date | Presentation Name | Recording Link |
 | --- | --- | --- | --- |
 | **Hubscale Executive Search Podcast** | *December 2025* | A Cyber Year in Review with Grumpy Old Cyber Leaders | [LinkedIn](https://www.linkedin.com/events/7403835907369357312) |
-| **Hacking APIs Conference Paris** | *December 2025* | Hiding in Plain Sight: Foundations of Scalable API Security {co-presented with Corey Ball} | No recording |
+| **Hacking APIs Conference - Paris** | *December 2025* | Hiding in Plain Sight: Foundations of Scalable API Security {co-presented with Corey Ball} | No recording |
 | **SAINTCON** | *October 2025* | Security != Compliance...But It Should | [Youtube](https://www.youtube.com/watch?v=FD5Y00sttfs) |
 | **360 Advanced & Compyl webinar** | *October 2025* | Proving Tust Through the ISO Trifecta | [360 Advanced website](https://360advanced.com/webinar/proving-trust-through-the-iso-trifecta/) |
 | **DoControl Podcast** | *September 2025* | The Breach Seat | [Youtube](https://www.youtube.com/watch?v=_LuWUGFR85s) |
