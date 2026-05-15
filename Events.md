@@ -6,9 +6,9 @@
 | --- | --- | --- | --- |
 | **Hacking APIs Conference - NYC** | *May 2026* | Architecting Strong Security Programs with Solid API Security | Live Event (No recording) |
 | **AI Governance, Practically** | *May 2026* | Session 1 | Recording Pending |
-| **ISACA Atlanta Chapter Geek Week** | *April 2026* | ISO Trifecta Hot Takes and Real Talk (co-presenter with David Forman) | Recording Pending |
+| **ISACA Atlanta Chapter Geek Week** | *April 2026* | ISO Trifecta Hot Takes and Real Talk (co-presenter with David Forman) | No Recording |
 | **The GRC Room** | *April 2026* | 5 Questions in The GRC Room | [LinkedIn](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7453052055587328000/) |
-| **Compyl & 360 Advanced Fireside** | *April 2026* | GRC Heroes | Live Event (No recording) - [Event Link](https://compyl.com/event/grc-heroes-salt-lake/) |
+| **Compyl & 360 Advanced Fireside** | *April 2026* | GRC Heroes | [Event Link](https://compyl.com/event/grc-heroes-salt-lake/) |
 | **Talent Gap Fireside Chat** | *March 2026* | Networking, Not Resumes: How People Actually Get Hired in Security | [Spotify](https://lnkd.in/eMJpaS5a) and [YouTube](https://www.youtube.com/watch?v=occDsfHVGhw) |
 | **Wolfia Podcast** | *March 2026* | Customer Trust, ISO 42001, and The Future | [LinkedIn](https://www.linkedin.com/posts/garrett-close_great-chat-with-chris-honda-about-iso42001-ugcPost-7437198809060823041-h8X1/) |
 | **BSides Seattle** | *February 2026* | The First Security Hire's Survival Guide | [YouTube](https://www.youtube.com/watch?v=-Lo2bkwYwGg) |
@@ -25,7 +25,8 @@
 | **Cybersecurity Summit Salt Lake City** | *June 2025* | Panel Discussion: Incident Response | No recording, event details [here](https://cybersecuritysummit.com/summit/saltlakecity25/) |
 | **Infosec.live Podcast** | *May 2025* | Risking It All In Cybersecurity | [Youtube](https://www.youtube.com/watch?v=Z5GaUHBFvFM) & [LinkedIn](https://www.linkedin.com/events/riskingitallincybersecurity-chr7322619320302280704/about/) |
 | **Cyber Warrior Podcast - Security Happy Hour** | *May 2025* | GRC, Diverse Backgrounds & The People Side of Cybersecurity | [Youtube](https://www.youtube.com/watch?v=XN6Y4lQtzZ0) |
-| **BSides Seattle** | *April 2025* | Join the Team, We've Got Cookies - Landing A GRC Role | Recording Pending |
+| **BSides Seattle** | *April 2025* | Join the Team, We've Got Cookies - Landing A GRC Role | No Recording |
+
 
 ## 2024 Presentations
 | Event | Date | Presentation Name | Recording Link |
