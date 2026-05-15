@@ -4,7 +4,8 @@
 ## 2026 Presentations
 | Event | Date | Presentation Name | Recording Link |
 | --- | --- | --- | --- |
-| **Hacking APIs Conference - NYC** | *May 2026* | TBD | Live Event (No recording) |
+| **Hacking APIs Conference - NYC** | *May 2026* | Architecting Strong Security Programs with Solid API Security | Live Event (No recording) |
+| **AI Governance, Practically** | *May 2026* | Session 1 | Recording Pending |
 | **ISACA Atlanta Chapter Geek Week** | *April 2026* | ISO Trifecta Hot Takes and Real Talk (co-presenter with David Forman) | Recording Pending |
 | **The GRC Room** | *April 2026* | 5 Questions in The GRC Room | [LinkedIn](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7453052055587328000/) |
 | **Compyl & 360 Advanced Fireside** | *April 2026* | GRC Heroes | Live Event (No recording) - [Event Link](https://compyl.com/event/grc-heroes-salt-lake/) |
