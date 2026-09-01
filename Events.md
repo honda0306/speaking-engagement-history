@@ -29,7 +29,7 @@
 | **Infosec.live Podcast** | *May 2025* | Risking It All In Cybersecurity | [Youtube](https://www.youtube.com/watch?v=Z5GaUHBFvFM) & [LinkedIn](https://www.linkedin.com/events/riskingitallincybersecurity-chr7322619320302280704/about/) |
 | **Cyber Warrior Podcast - Security Happy Hour** | *May 2025* | GRC, Diverse Backgrounds & The People Side of Cybersecurity | [Youtube](https://www.youtube.com/watch?v=XN6Y4lQtzZ0) |
 | **BSides Seattle** | *April 2025* | Join the Team, We've Got Cookies - Landing A GRC Role | No Recording |
-
+| **GRC Uncensored Podcast** | *March 2025* | AI Governance: Insights on ISO 42001 from Two GRC Experts | [Spotify](https://open.spotify.com/episode/3VOonpJRfjjFmoK0MAULIo) |
 
 ## 2024 Presentations
 | Event | Date | Presentation Name | Recording Link |
