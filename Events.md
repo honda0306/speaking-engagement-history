@@ -5,8 +5,8 @@
 | Event | Date | Presentation Name | Recording Link |
 | --- | --- | --- | --- |
 | **SimplyCyberCon** | *November 2026* | How to NOT Get Hired - GRC Edition | Recording Pending |
-| **SAINTCON** | *October 2026* | Doing GRC Without Being a Jerk | Recording Pending |
-| **apiseccon** | *October 2026* | Helping AppSec and GRC Be Friends (Again) | Recording Pending |
+| **SAINTCON** | *October 2026* | Doing GRC Without Being a Jerk | [YouTube](https://www.youtube.com/watch?v=jKthDN9UxRY) |
+| **apiseccon** | *October 2026* | Helping AppSec and GRC Be Friends (Again) | [YouTube](https://www.youtube.com/watch?v=hNLLR3BvaWg) |
 | **Third Party Threat Hunters Podcast** | *September 2026* | TBD | Recording Pending |
 | **Hacking APIs Conference - NYC** | *May 2026* | Architecting Strong Security Programs with Solid API Security | Live Event (No recording) |
 | **AI Governance, Practically** | *May 2026* | Session 1 | No Recording, [Event Link](https://www.linkedin.com/events/aigovernance-practically-sessio7455622027278794752/) |
