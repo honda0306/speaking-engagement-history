@@ -4,7 +4,7 @@
 ## 2026 Presentations
 | Event | Date | Presentation Name | Recording Link |
 | --- | --- | --- | --- |
-| **SimplyCyberCon** | *November 2026* | How to NOT Get Hired - GRC Edition | Recording Pending |
+| **SimplyCyberCon** | *November 2026* | How to NOT Get Hired - GRC Edition | [YouTube](https://www.youtube.com/watch?v=j_YFgFQV-eg) |
 | **SAINTCON** | *October 2026* | Doing GRC Without Being a Jerk | [YouTube](https://www.youtube.com/watch?v=jKthDN9UxRY) |
 | **apiseccon** | *October 2026* | Helping AppSec and GRC Be Friends (Again) | [YouTube](https://www.youtube.com/watch?v=hNLLR3BvaWg) |
 | **Third Party Threat Hunters Podcast** | *September 2026* | TBD | Recording Pending |
